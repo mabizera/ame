@@ -1,1 +1,4 @@
-<h1>AME-Amabile Moda Evangélica</h1>
+<h1> <i>AME-Amabile Moda Evangélica </i> </h1>
+<P> *Localizada no centro de Paulo Frontin, na rua 14 de dezembro, ao lado da antiga farmácia Santo Antônio.</p>
+<p> *A loja <strong> Ame </strong> é uma loja de moda evangélica, nosso objetivo é ver nossos clientes bem vestidos, confortáveis e chiques. </p>
+<p> *Oferecemos variedades de roupas sociais, vestidos, saias, camisas femininas e masculinas, há calças sociais masculinas, gravatas, sapatos de salto e tambem sapatos sociais masculinos  
